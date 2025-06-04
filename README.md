@@ -1,5 +1,3 @@
-should this be in my readme? # IAM Project: Active Directory on Windows Server Core
-
 ## Overview
 This project demonstrates the deployment and management of an Active Directory (AD) environment using Windows Server Core. The focus is on foundational Identity and Access Management (IAM) tasks including Organizational Unit (OU) creation, user management with least privilege access, and implementation of password and account lockout policies through Group Policy Objects (GPOs).
 
